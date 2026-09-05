@@ -1,0 +1,6 @@
+{
+  "name": "Sinar Mas Aluminium",
+  "description": "Aplikasi pembukuan piutang meubel dan pengelola file aman dengan enkripsi, analisis visual, dan pelaporan PDF/CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
